@@ -9,5 +9,5 @@ Chat Group: https://t.me/BakiSoftLabschat
 
 ### Check Release 
 or<br>
-Download Link: https://github.com/abdullahal-baki/movie-max/releases
+Download Link: [MovieMAX-v1.0](https://github.com/abdullahal-baki/movie-max/releases/download/v-1.0/MovieMAX-v1.0.exe)
 
