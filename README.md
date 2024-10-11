@@ -1,11 +1,13 @@
 # MovieMAX
 
-BDIX FTP Hunter is the best tool for finding working FTP servers on your broadband connection. The best feature of this tool is that it can automatically open working servers on your browser.
+MovieMAX is the best software for finding movies. This software connect with several servers. Then find your movies from those servers.<br>
+You can Stream the movie by VLC Media Player and also you can download movies.
+Make sure at least one servers connected with your connection.
 
-Official Channel: https://t.me/bdixftphunter <br>
-Chat Group: https://t.me/bdixftpchat
+Official Channel: https://t.me/BakiSoftLabs <br>
+Chat Group: https://t.me/BakiSoftLabschat
 
 ### Check Release 
 or<br>
-Download Link: https://github.com/abdullahal-baki/bdix-ftp-hunter/releases/download/v-2.4/BDIX-FTP-Hunter-v2.4.exe
+Download Link: https://github.com/abdullahal-baki/movie-max/releases
 
