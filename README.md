@@ -11,3 +11,4 @@ Chat Group: https://t.me/BakiSoftLabschat
 or<br>
 Download Link: [MovieMAX-v1.1.exe](https://github.com/abdullahal-baki/movie-max/releases/download/v-1.1/MovieMAX-v1.1.exe)
 
+<img src='sample.jpg'>
