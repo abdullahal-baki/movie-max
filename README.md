@@ -7,15 +7,34 @@ Make sure at least one servers connected with your connection.
 Official Channel: https://t.me/BakiSoftLabs <br>
 Chat Group: https://t.me/BakiSoftLabschat
 
-<p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/abdullahal-baki/movie-max&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Repo+Views&edge_flat=false" alt="Repo Views" />
-</p>
 
 
 
 ### Check Release 
 or<br>
-Download Link: [MovieMAX-v1.1.exe](https://github.com/abdullahal-baki/movie-max/releases/)
+Download Link: [MovieMAX](https://github.com/abdullahal-baki/movie-max/releases/)
+
+
+## Desktop Version
+Source Repo: https://github.com/abdullahal-baki/Movie-Max-Project
 
 <img src='assets/movie-max_1.png'>
+
 <img src='assets/movie-max_2.png'>
+
+## Mobile Version
+Source Repo: https://github.com/abdullahal-baki/MovieMAX-mobile-version
+
+<img src='assets/movie-max-mobile-history-page.png'>
+
+---
+
+<img src='assets/movie-max-mobile-search-page.png'>
+
+---
+
+<img src='assets/movie-max-mobile-AI-discover-page.png'>
+
+---
+
+<img src='assets/movie-max-mobile-player.png'>
