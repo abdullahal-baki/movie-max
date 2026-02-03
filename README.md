@@ -1,40 +1,49 @@
 # MovieMAX
 
-MovieMAX is the best software for finding movies. This software connect with several servers. Then find your movies from those servers.<br>
-You can Stream the movie by VLC Media Player and also you can download movies.
-Make sure at least one servers connected with your connection.
+MovieMAX helps you find movies by connecting to multiple servers. 
 
-Official Channel: https://t.me/BakiSoftLabs <br>
-Chat Group: https://t.me/BakiSoftLabschat
+## Features
 
+- Search movies from connected servers
+- In app streaming
 
+## Download / Releases
 
+All `.exe` and `.apk` files are published in GitHub Releases:
 
-### Check Release 
-or<br>
-Download Link: [MovieMAX](https://github.com/abdullahal-baki/movie-max/releases/)
+- Releases page: https://github.com/abdullahal-baki/movie-max/releases/
 
+### Release assets (what to upload)
 
-## Desktop Version
-Source Repo: https://github.com/abdullahal-baki/Movie-Max-Project
+- Windows (Desktop): `MovieMAX-Setup-<desktop-version>.exe` (example: `MovieMAX-Setup-2.0.0.exe`)
+- Android (Mobile): `MovieMAX-Mobile-<mobile-version>.apk` (recommended) **or** `MovieMAX-Mobile.apk`
 
-<img src='assets/movie-max_1.png'>
+Very simple release notes/template: `RELEASE_NOTES.md`
 
-<img src='assets/movie-max_2.png'>
+## Source Code
 
-## Mobile Version
-Source Repo: https://github.com/abdullahal-baki/MovieMAX-mobile-version
+- Desktop repo: https://github.com/abdullahal-baki/Movie-Max-Project
+- Mobile repo: https://github.com/abdullahal-baki/MovieMAX-mobile-version
 
-<img src='assets/movie-max-mobile-history-page.png'>
+## Community
 
----
+- Official Channel: https://t.me/BakiSoftLabs
+- Chat Group: https://t.me/BakiSoftLabschat
 
-<img src='assets/movie-max-mobile-search-page.png'>
+## Screenshots
 
----
+### Desktop
 
-<img src='assets/movie-max-mobile-AI-discover-page.png'>
+<img src="assets/movie-max_1.png" alt="MovieMAX desktop screenshot 1">
 
----
+<img src="assets/movie-max_2.png" alt="MovieMAX desktop screenshot 2">
 
-<img src='assets/movie-max-mobile-player.png'>
+### Mobile
+
+<img src="assets/movie-max-mobile-history-page.png" alt="MovieMAX mobile history page">
+
+<img src="assets/movie-max-mobile-search-page.png" alt="MovieMAX mobile search page">
+
+<img src="assets/movie-max-mobile-AI-discover-page.png" alt="MovieMAX mobile AI discover page">
+
+<img src="assets/movie-max-mobile-player.png" alt="MovieMAX mobile player">
