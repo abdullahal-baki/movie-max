@@ -40,10 +40,10 @@ Very simple release notes/template: `RELEASE_NOTES.md`
 
 ### Mobile
 
-<img src="assets/movie-max-mobile-history-page.png" alt="MovieMAX mobile history page">
-
-<img src="assets/movie-max-mobile-search-page.png" alt="MovieMAX mobile search page">
-
-<img src="assets/movie-max-mobile-AI-discover-page.png" alt="MovieMAX mobile AI discover page">
+<p>
+  <img src="assets/movie-max-mobile-history-page.png" alt="MovieMAX mobile history page" width="32%">
+  <img src="assets/movie-max-mobile-search-page.png" alt="MovieMAX mobile search page" width="32%">
+  <img src="assets/movie-max-mobile-AI-discover-page.png" alt="MovieMAX mobile AI discover page" width="32%">
+</p>
 
 <img src="assets/movie-max-mobile-player.png" alt="MovieMAX mobile player">
