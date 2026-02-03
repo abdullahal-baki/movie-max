@@ -34,9 +34,6 @@ Very simple release notes/template: `RELEASE_NOTES.md`
 
 ### Desktop
 
-<img src="assets/movie-max_1.png" alt="MovieMAX desktop screenshot 1">
-
-<img src="assets/movie-max_2.png" alt="MovieMAX desktop screenshot 2">
 
 ### Mobile
 
