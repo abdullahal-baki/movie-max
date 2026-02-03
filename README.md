@@ -13,12 +13,7 @@ All `.exe` and `.apk` files are published in GitHub Releases:
 
 - Releases page: https://github.com/abdullahal-baki/movie-max/releases/
 
-### Release assets (what to upload)
 
-- Windows (Desktop): `MovieMAX-Setup-<desktop-version>.exe` (example: `MovieMAX-Setup-2.0.0.exe`)
-- Android (Mobile): `MovieMAX-Mobile-<mobile-version>.apk` (recommended) **or** `MovieMAX-Mobile.apk`
-
-Very simple release notes/template: `RELEASE_NOTES.md`
 
 ## Source Code
 
